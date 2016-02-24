@@ -2,7 +2,7 @@
 '''
 
 import json
-import soundslib as sl
+import sounds_lib as sl
 import requests
 
 username = ''
